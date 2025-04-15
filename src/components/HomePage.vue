@@ -1,7 +1,7 @@
 <template>
   <div>
 
-    <h1>this is home component </h1>
+    <h1>this is home component   as1111111111111111111111 </h1>
     
   </div>
     
